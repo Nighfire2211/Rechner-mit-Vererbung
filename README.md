@@ -1,1 +1,2 @@
-# Rechner-mit-Vererbung
+# Rechner-mit-Vererbung.
+Dieses Programm arbeitet mit Vererbungen.
